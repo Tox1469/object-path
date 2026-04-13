@@ -1,3 +1,10 @@
+[![CI](https://img.shields.io/github/actions/workflow/status/Tox1469/object-path/ci.yml?style=flat-square&label=ci)](https://github.com/Tox1469/object-path/actions)
+[![License](https://img.shields.io/github/license/Tox1469/object-path?style=flat-square)](LICENSE)
+[![Release](https://img.shields.io/github/v/release/Tox1469/object-path?style=flat-square)](https://github.com/Tox1469/object-path/releases)
+[![Stars](https://img.shields.io/github/stars/Tox1469/object-path?style=flat-square)](https://github.com/Tox1469/object-path/stargazers)
+
+---
+
 # object-path
 
 Get, set, has e delete de valores em objetos aninhados usando dot path ou array.
