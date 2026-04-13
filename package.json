@@ -1,0 +1,19 @@
+{
+  "name": "object-path",
+  "version": "1.0.0",
+  "description": "get/set/has/delete de valores por dot path",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "files": ["dist"],
+  "scripts": {
+    "build": "tsc",
+    "prepublishOnly": "npm run build"
+  },
+  "keywords": ["object","path","get","set","lodash"],
+  "author": "Tox",
+  "license": "MIT",
+  "devDependencies": {
+    "typescript": "^5.0.0",
+    "@types/node": "^20.0.0"
+  }
+}
